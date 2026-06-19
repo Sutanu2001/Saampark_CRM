@@ -1,0 +1,180 @@
+{
+  "leads": [
+    {
+      "id": "lead_1776574411236_2234",
+      "name": "HCL",
+      "contact": "526300044",
+      "phone": "15200",
+      "owner": "Suraj",
+      "createdAt": "2026-04-19T04:53:31.237Z",
+      "status": "Qualified",
+      "label": "short"
+    },
+    {
+      "id": "lead_1776533514616_9952",
+      "name": "ytf",
+      "contact": "gtfct",
+      "phone": "trf",
+      "owner": "uyg",
+      "createdAt": "2026-04-18T17:31:54.616Z",
+      "status": "New",
+      "label": "uhby"
+    }
+  ],
+  "dashboards": [
+    {
+      "id": "dashboard_1776576052504_4037",
+      "label": "Saampark",
+      "openTasks": 5,
+      "events": 2,
+      "due": "50000",
+      "graphType": "area",
+      "ticketColor": "blue"
+    },
+    {
+      "id": "dashboard_1781407084518_7242",
+      "label": "Sutanu",
+      "openTasks": 5,
+      "events": 50,
+      "due": "₹60000",
+      "graphType": "bar",
+      "ticketColor": "#18b588"
+    },
+    {
+      "id": "dashboard_1781535201537_6844",
+      "label": "manu",
+      "openTasks": 55,
+      "events": 55,
+      "due": "1000",
+      "graphType": "donut",
+      "ticketColor": "#18b588"
+    }
+  ],
+  "projects": [
+    {
+      "title": "WordPress Plugin Development",
+      "client": "-",
+      "price": "-",
+      "startDate": "21-12-2025",
+      "deadline": "08-02-2026",
+      "progress": 30,
+      "status": "Open",
+      "tag": {
+        "label": "Urgent",
+        "className": "bg-[#d89cf2] text-white"
+      }
+    },
+    {
+      "title": "Website Maintenance and Updates",
+      "client": "Birdie Erdman",
+      "price": "$3,500.00",
+      "startDate": "08-01-2026",
+      "deadline": "12-02-2026",
+      "progress": 20,
+      "status": "Open",
+      "tag": {
+        "label": "Urgent",
+        "className": "bg-[#d89cf2] text-white"
+      }
+    },
+    {
+      "title": "Virtual Reality Experience Design",
+      "client": "-",
+      "price": "-",
+      "startDate": "12-02-2026",
+      "deadline": "19-02-2026",
+      "progress": 20,
+      "status": "Open",
+      "tag": {
+        "label": "On track",
+        "className": "bg-[#8ed065] text-white"
+      }
+    },
+    {
+      "title": "Video Animation and Editing",
+      "client": "Kevin Johnston",
+      "price": "-",
+      "startDate": "17-02-2026",
+      "deadline": "08-09-2023",
+      "progress": 100,
+      "status": "Completed"
+    },
+    {
+      "title": "UI/UX Design for Web App",
+      "client": "Howard Halvorson",
+      "price": "-",
+      "startDate": "10-01-2026",
+      "deadline": "23-03-2026",
+      "progress": 35,
+      "status": "Open",
+      "tag": {
+        "label": "On track",
+        "className": "bg-[#8ed065] text-white"
+      }
+    },
+    {
+      "title": "Software Development for CRM",
+      "client": "Adrain Ondricka",
+      "price": "$1,000.00",
+      "startDate": "01-02-2026",
+      "deadline": "08-03-2026",
+      "progress": 100,
+      "status": "Completed"
+    },
+    {
+      "title": "Social Media Marketing Campaign",
+      "client": "Fritsch, Okuneva and Armstrong",
+      "price": "-",
+      "startDate": "05-01-2026",
+      "deadline": "09-02-2026",
+      "progress": 100,
+      "status": "Completed"
+    },
+    {
+      "title": "Social Media Influencer Collaboration",
+      "client": "Alta Cassin",
+      "price": "$2,500.00",
+      "startDate": "21-02-2026",
+      "deadline": "02-09-2023",
+      "progress": 5,
+      "status": "Open",
+      "tag": {
+        "label": "Upcoming",
+        "className": "bg-[#f2bb59] text-white"
+      }
+    },
+    {
+      "title": "Social Media Content Calendar",
+      "client": "Adrain Ondricka",
+      "price": "$4,000.00",
+      "startDate": "15-02-2026",
+      "deadline": "04-10-2023",
+      "progress": 100,
+      "status": "Completed"
+    },
+    {
+      "title": "SEO Optimization Strategy",
+      "client": "Abshire-Swaniawski",
+      "price": "$4,000.00",
+      "startDate": "20-12-2025",
+      "deadline": "14-02-2026",
+      "progress": 35,
+      "status": "Open",
+      "tag": {
+        "label": "Urgent",
+        "className": "bg-[#d89cf2] text-white"
+      }
+    }
+  ],
+  "users": [
+    {
+      "id": "usr_1781090883815",
+      "email": "2020sutanuroy@gmail.com",
+      "password": "2020",
+      "username": "Sutanu Roy",
+      "role": "USER",
+      "companyName": "Farmer",
+      "clientType": "Organization"
+    }
+  ]
+}
