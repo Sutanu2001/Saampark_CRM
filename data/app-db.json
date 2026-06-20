@@ -176,5 +176,72 @@
       "companyName": "Farmer",
       "clientType": "Organization"
     }
-  ]
+  ],
+  "products": [
+  {
+    "id": 1,
+    "title": "Logo Design",
+    "price": "100.00",
+    "unit": "PC",
+    "description": "Logo design for your brand.",
+    "image": "/api/placeholder/400/250"
+  },
+  {
+    "id": 2,
+    "title": "10GB Hosting",
+    "price": "100.00",
+    "unit": "PC",
+    "description": "Cloud Hosting service 10GB Space - Free su...",
+    "image": "/api/placeholder/400/250"
+  },
+  {
+    "id": 3,
+    "title": "Art pictures",
+    "price": "40.00",
+    "unit": "PC",
+    "description": "Hand art pictures for your website.",
+    "image": "/api/placeholder/400/250"
+  },
+  {
+    "id": 4,
+    "title": "Content writing",
+    "price": "15.00",
+    "unit": "Hour",
+    "description": "We write content for different types of webs...",
+    "image": "/api/placeholder/400/250"
+  },
+  {
+    "id": 5,
+    "title": "App Development",
+    "price": "150.00",
+    "unit": "Hour",
+    "description": "Custom mobile app development and design.",
+    "image": "/api/placeholder/400/250"
+  },
+  {
+    "id": 6,
+    "title": "Cyber Security Lock",
+    "price": "85.00",
+    "unit": "PC",
+    "description": "Full network audit and security hardening.",
+    "image": "/api/placeholder/400/250"
+  },
+  {
+    "id": 7,
+    "title": "SEO Optimization",
+    "price": "60.00",
+    "unit": "Hour",
+    "description": "Boost your search engine visibility rankings.",
+    "image": "/api/placeholder/400/250"
+  },
+  {
+    "id": 8,
+    "title": "Admin Dashboard Template",
+    "price": "49.00",
+    "unit": "PC",
+    "description": "Modern UI premium responsive panel mockup.",
+    "image": "/api/placeholder/400/250"
+  }
+]
+  
 }
